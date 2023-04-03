@@ -4,6 +4,7 @@ pipeline {
         stage ("Building Josh's Stage") {
             steps {
                 echo "Building Josh's stage w Benedicte"
+                echo "Building in class - recording"
             }
         }
 
