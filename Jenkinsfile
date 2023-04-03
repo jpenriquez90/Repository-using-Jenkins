@@ -6,7 +6,7 @@ pipeline {
                 echo "Building Josh's stage w Benedicte"
                 echo "Building in class - recording"
                 echo "making another echo command inside the GitHub service."
-                echo "echo command at end of first stage"
+                echo "echo practice command 1"
             }
         }
 
@@ -15,6 +15,7 @@ pipeline {
                 echo "2nd stage practice"
                 echo "trying to add a command"
                 echo "3rd comment to make a command"
+                echo "echo command practice 2"
             }
         }
 
@@ -22,6 +23,7 @@ pipeline {
             steps {
                 echo "3rd stage practice"
                 echo "making a echo command inside Git"
+                echo "making third echo command in Git"
             }
         }
 
@@ -29,6 +31,7 @@ pipeline {
             steps {
                 echo "4th stage practice command"
                 echo "making echo commands inside Git"
+                echo "making another command practice 3"
             }
         }
 
