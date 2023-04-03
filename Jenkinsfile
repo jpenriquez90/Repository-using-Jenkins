@@ -10,6 +10,7 @@ pipeline {
         stage ("Testing stage") {
             steps {
                 echo "2nd stage practice"
+                echo "trying to add a command"
             }
         }
 
